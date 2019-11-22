@@ -19,3 +19,5 @@ Utilizando este tipo de lenguaje, podemos utilizar varios elementos para complet
 Si quieres aprender más sobre como usar este lenguaje tan sencillo, visita este blog para saber utilizar elementos para diseñar tu página web:
 
 [Enlace al blog de Sintaxis Markdown](https://markdown.es/sintaxis-markdown/#links)
+
+> Sevilla, recuerda, eres una mierda
